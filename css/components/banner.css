@@ -1,0 +1,19 @@
+.banner {
+	background-image: linear-gradient(100deg, rgba(0,0,0,0.2) 0%, rgba(0,0,0,0.15) 50%), url(../../images/les-arcs.jpg);
+	background-size: cover;
+	padding: 150px 0px;
+	
+}
+
+.banner h1 {
+	font-size: 50px;
+	margin-bottom: 20px;
+	color: #002B56;
+}
+
+.banner h2 {
+	font-weight: lighter;
+	opacity: 0.8;
+	font-size: 30px;
+	margin-bottom: 40px;
+	color: #09223a;
